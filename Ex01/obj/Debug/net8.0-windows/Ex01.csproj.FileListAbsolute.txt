@@ -1,0 +1,48 @@
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.exe
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.deps.json
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.runtimeconfig.json
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.dll
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.pdb
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.Form1.resources
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.csproj.GenerateResource.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.AssemblyInfoInputs.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.AssemblyInfo.cs
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.csproj.CoreCompileInputs.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.dll
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\refint\Ex01.dll
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.pdb
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.genruntimeconfig.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\ref\Ex01.dll
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.exe
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.deps.json
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.runtimeconfig.json
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.dll
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.pdb
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.Form1.resources
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.csproj.GenerateResource.cache
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.AssemblyInfoInputs.cache
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.AssemblyInfo.cs
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.dll
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\refint\Ex01.dll
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.pdb
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.genruntimeconfig.cache
+C:\Users\lepha\Desktop\Lab01-20250524T131218Z-1-001\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\ref\Ex01.dll
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.exe
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.deps.json
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.runtimeconfig.json
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.dll
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\bin\Debug\net8.0-windows\Ex01.pdb
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.Form1.resources
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.csproj.GenerateResource.cache
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.AssemblyInfoInputs.cache
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.AssemblyInfo.cs
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.dll
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\refint\Ex01.dll
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.pdb
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\Ex01.genruntimeconfig.cache
+C:\Users\lepha\Desktop\Lab01\Ex01\Ex01\obj\Debug\net8.0-windows\ref\Ex01.dll
