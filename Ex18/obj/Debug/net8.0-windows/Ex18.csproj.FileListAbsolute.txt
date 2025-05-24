@@ -1,0 +1,16 @@
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\bin\Debug\net8.0-windows\Ex18.exe
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\bin\Debug\net8.0-windows\Ex18.deps.json
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\bin\Debug\net8.0-windows\Ex18.runtimeconfig.json
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\bin\Debug\net8.0-windows\Ex18.dll
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\bin\Debug\net8.0-windows\Ex18.pdb
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\Ex18.Form1.resources
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\Ex18.csproj.GenerateResource.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\Ex18.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\Ex18.AssemblyInfoInputs.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\Ex18.AssemblyInfo.cs
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\Ex18.csproj.CoreCompileInputs.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\Ex18.dll
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\refint\Ex18.dll
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\Ex18.pdb
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\Ex18.genruntimeconfig.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex18\Ex18\obj\Debug\net8.0-windows\ref\Ex18.dll

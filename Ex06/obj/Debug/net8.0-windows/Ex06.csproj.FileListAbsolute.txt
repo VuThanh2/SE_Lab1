@@ -1,0 +1,16 @@
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\bin\Debug\net8.0-windows\Ex06.exe
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\bin\Debug\net8.0-windows\Ex06.deps.json
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\bin\Debug\net8.0-windows\Ex06.runtimeconfig.json
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\bin\Debug\net8.0-windows\Ex06.dll
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\bin\Debug\net8.0-windows\Ex06.pdb
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\Ex06.Form1.resources
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\Ex06.csproj.GenerateResource.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\Ex06.AssemblyInfoInputs.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\Ex06.AssemblyInfo.cs
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\Ex06.csproj.CoreCompileInputs.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\Ex06.dll
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\refint\Ex06.dll
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\Ex06.pdb
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\Ex06.genruntimeconfig.cache
+D:\HK4\Software Engineering\Labs\Lab01\Ex06\Ex06\obj\Debug\net8.0-windows\ref\Ex06.dll
